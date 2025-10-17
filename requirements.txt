@@ -1,0 +1,5 @@
+google-generativeai>=0.3.0
+gradio>=4.0.0
+python-dotenv>=1.0.0
+requests>=2.25.0
+typing-extensions>=4.0.0

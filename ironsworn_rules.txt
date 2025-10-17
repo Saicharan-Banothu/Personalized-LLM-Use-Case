@@ -1,0 +1,55 @@
+IRONSWORN RPG RULES - CORE CONCEPTS
+
+SETTING: The Ironlands
+- A harsh, northern land of rugged coastlines, deep forests, and lonely mountains
+- Settlers from the Old World came generations ago
+- Magic is subtle and dangerous, tied to rituals and bonds
+- The world is filled with perilous sites, mysterious creatures, and ancient secrets
+
+CHARACTER STATS:
+- Edge: Quickness, agility, and stealth
+- Heart: Courage, willpower, and presence
+- Iron: Physical strength, endurance, and combat prowess
+- Shadow: Sneakiness, deceptiveness, and cunning
+- Wits: Knowledge, strategy, and observation
+
+MOVES (Key Mechanics):
+- Face Danger: When you attempt something risky
+- Secure an Advantage: When you assess a situation or prepare for action
+- Gather Information: When you search for clues or investigate
+- Compel: When you try to persuade someone
+- Strike: When you attack in close quarters
+- Clash: When you fight in a chaotic melee
+- Battle: When you fight as part of organized conflict
+
+ORACLES (Random Tables):
+- Action: 1.Advance, 2.Assault, 3.Avenge, 4.Break, 5.Capture, 6.Clash, 7.Concoct, 8.Consume, 9.Craft, 10.Create, etc.
+- Theme: 1.Agony, 2.Ancient, 3.Bane, 4.Battle, 5.Beast, 6.Blight, 7.Bond, 8.Burden, 9.Corpse, 10.Curse, etc.
+- Region: 1.Barrier Islands, 2.Ragged Coast, 3.Deep Wilds, 4.Flooded Lands, 5.Havens, 6.Hinterlands, 7.Hooked, 8.Ironlands, 9.Tempest Hills, 10.Veil
+
+COMBAT:
+- Combat uses progress tracks (0-10)
+- Inflict harm based on your weapon: 1-harm for light weapons, 2-harm for medium, 3-harm for heavy
+- Enemies have health based on their rank: Troublesome (3), Dangerous (5), Formidable (7), Extreme (10), Epic (12)
+
+BONDS AND VOWS:
+- Characters swear iron vows to undertake quests
+- Vows have ranks: Troublesome, Dangerous, Formidable, Extreme, Epic
+- Fulfilling vows grants experience and growth
+
+RITUALS:
+- Rituals are the primary form of magic
+- Examples: Bind, Scry, Commune, Tinker, Sanctify, Visage
+- Each ritual has specific requirements and costs
+
+CREATURE EXAMPLES:
+- Broken: Corrupted humans touched by dark magic
+- Horror: Otherworldly beings from the dark
+- Firstborn: Ancient, powerful beings like elves, giants, drakes
+- Beast: Normal animals like wolves, bears, eagles
+
+SETTLEMENT TYPES:
+- Hamlet: Small, isolated community (50-100 people)
+- Village: Moderate settlement with some services (100-500 people)
+- Fort: Military outpost or fortified town
+- Town: Larger settlement with multiple services (500-2000 people)

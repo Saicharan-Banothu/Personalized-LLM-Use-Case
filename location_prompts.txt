@@ -1,0 +1,12 @@
+Generate a detailed location for the game. Include:
+
+1. NAME: An evocative name for the location
+2. TYPE: What kind of place it is (settlement, dungeon, natural feature, etc.)
+3. DESCRIPTION: Vivid sensory details (sights, sounds, smells)
+4. HISTORY: Brief background or lore
+5. INHABITANTS: Who or what can be found here
+6. POINTS OF INTEREST: 3-5 notable features or areas
+7. DANGERS/OPPORTUNITIES: Potential threats or rewards
+8. GAME MECHANICS: Any relevant rules or mechanics for this location
+
+Create a location that feels alive and offers gameplay opportunities.

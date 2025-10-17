@@ -1,0 +1,12 @@
+Generate an encounter or challenge for the players. Include:
+
+1. SETTING: Where the encounter takes place
+2. PARTICIPANTS: Who or what is involved (NPCs, creatures, etc.)
+3. OBJECTIVE: What the players need to accomplish
+4. COMPLICATION: An unexpected twist or challenge
+5. STAKES: What's at risk for success or failure
+6. REWARDS: What players gain for success
+7. CONSEQUENCES: What happens if they fail
+8. ESCALATION: How the situation could get worse or better
+
+Create encounters that are balanced, engaging, and offer multiple approaches.

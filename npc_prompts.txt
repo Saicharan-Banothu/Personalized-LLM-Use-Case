@@ -1,0 +1,12 @@
+Generate a Non-Player Character (NPC) for the game. Include:
+
+1. NAME: A fitting name for the setting
+2. APPEARANCE: Physical description (2-3 sentences)
+3. PERSONALITY: Key personality traits and mannerisms
+4. MOTIVATION: What drives this character
+5. ROLE: Their function in the world (merchant, guide, antagonist, etc.)
+6. STATS/ABILITIES: Brief mechanical details if relevant to the system
+7. CONNECTION: How they might be connected to the players or world events
+8. QUOTE: A memorable line they might say
+
+Make the NPC feel authentic to the game world and useful for gameplay.

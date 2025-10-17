@@ -1,0 +1,12 @@
+Generate a unique item or piece of equipment for the game. Include:
+
+1. NAME: An evocative name for the item
+2. TYPE: What kind of item it is (weapon, armor, tool, artifact, etc.)
+3. DESCRIPTION: Physical appearance and any special properties
+4. HISTORY: The item's origin or previous owners
+5. ABILITIES/POWERS: Any special capabilities or magical properties
+6. DRAWBACKS/CURSES: Any negative aspects or limitations
+7. VALUE: How rare or valuable the item is
+8. USAGE: How the item is used in gameplay
+
+Create items that feel unique and offer interesting gameplay opportunities.

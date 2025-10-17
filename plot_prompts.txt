@@ -1,0 +1,12 @@
+Generate plot hooks or story elements. Include:
+
+1. HOOK: The initial situation that draws players in
+2. COMPLICATION: An unexpected twist or challenge
+3. STAKE: What's at risk or what can be gained
+4. ANTAGONISTS: Who opposes the players (if any)
+5. ALLIES: Potential helpers or informants
+6. CLUES: Information that moves the story forward
+7. RESOLUTION: Possible outcomes or consequences
+8. CONNECTIONS: How this relates to existing world elements
+
+Create engaging story content that gives players meaningful choices.
